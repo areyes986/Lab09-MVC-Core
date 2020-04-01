@@ -28,6 +28,7 @@ namespace FirstMVCApp
                 app.UseDeveloperExceptionPage();
             }
 
+            // allows us to use css/csv files/imgs, etc
             app.UseStaticFiles();
 
             app.UseRouting();
