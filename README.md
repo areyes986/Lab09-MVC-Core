@@ -16,6 +16,10 @@ This is a web application that displays all the people within the year in the ra
 ### Getting Started
 Clone this repository to your local machine.
 
+
+
+Deployed Site: [My First MVC App](https://firstmvcapp-lab09.azurewebsites.net/)
+
 ```
 $ git clone [https://github.com/areyes986/Lab09-MVC-Core.git]
 ```
